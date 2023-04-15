@@ -13,7 +13,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhmZjMwOTRjYWU4NDU0MGFiMzZlMjVkMmEyMjk4ZmQ1YjAwZjgwMSZjdD1n/l2Je5RcqWOxKPZDYk/giphy.gif" width = 250px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
